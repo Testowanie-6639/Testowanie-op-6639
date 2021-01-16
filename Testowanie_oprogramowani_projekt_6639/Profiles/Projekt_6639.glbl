@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Projekt_6639</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Adres strony banku</description>
+      <initValue>'https://parabank.parasoft.com/parabank/index.htm'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Imie uzytkownika</description>
+      <initValue>'Eryk'</initValue>
+      <name>imie</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nazwisko uzytkownika</description>
+      <initValue>'Kowalski'</initValue>
+      <name>nazwisko</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kod pocztowy uzytkownika</description>
+      <initValue>'50-500'</initValue>
+      <name>kodpocztowy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Miasto uzytkownika</description>
+      <initValue>'Wroclaw'</initValue>
+      <name>miasto</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nazwa uzytkownika</description>
+      <initValue>'EKowalski'</initValue>
+      <name>nazwauzytkownika</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Haslo uzytkownika</description>
+      <initValue>'1234'</initValue>
+      <name>haslo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Pesel uzytkownika</description>
+      <initValue>'1234567891021'</initValue>
+      <name>pesel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Telefon uzytkownika</description>
+      <initValue>'192356847'</initValue>
+      <name>telefon</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Wojedodztwo uzytkownika</description>
+      <initValue>'dolnoslaskie'</initValue>
+      <name>wojewodztwo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Ulica uzytkownika</description>
+      <initValue>'Innowroclawska'</initValue>
+      <name>ulica</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Login uzytkownika</description>
+      <initValue>'Robert'</initValue>
+      <name>uzytkowniklogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>10 usd przelew</description>
+      <initValue>'10'</initValue>
+      <name>srodki</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
